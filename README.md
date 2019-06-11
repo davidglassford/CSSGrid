@@ -1,2 +1,0 @@
-# CSSGrid
-Created with CodeSandbox
